@@ -1,4 +1,4 @@
-# 🛒 Reducing Cart Abandonment — End-to-End Business Analyst Portfolio Project
+# 🛒 Reducing Cart Abandonment — End-to-End Project
 
 > **49.07% of sessions that added a product to cart never completed a purchase — representing an estimated $134M in lost revenue in October 2019 alone.**
 
@@ -133,9 +133,9 @@ cart-abandonment-analysis/
 
 ## 👤 Author
 
-**Tiziano Gallo** — Business Analyst  
+**Tiziano Gallo**
 [GitHub](https://github.com/tizianogallo) · [LinkedIn](#)
 
 ---
 
-*This project was completed as part of a Business Analyst portfolio. All analysis is based on publicly available data.*
+*This project was completed as part of my portfolio. All analysis is based on publicly available data.*
