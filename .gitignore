@@ -1,0 +1,13 @@
+# Data files
+3_data_analysis/data/*.csv
+3_data_analysis/data/*.zip
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Power BI temp files
+*.pbix~
+
+# OS clutter
+.DS_Store
+Thumbs.db
