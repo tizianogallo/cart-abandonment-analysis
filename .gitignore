@@ -11,3 +11,4 @@
 # OS clutter
 .DS_Store
 Thumbs.db
+3_data_analysis/data/*.db
