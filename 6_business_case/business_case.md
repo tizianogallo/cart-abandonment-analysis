@@ -2,6 +2,8 @@
 
 **Project:** Reducing Cart Abandonment at an Undisclosed E-Commerce Platform  
 **Author:** Tiziano Gallo  
+**Date:** March 2026  
+**Version:** 1.0
 
 ---
 
@@ -33,12 +35,20 @@ Combined, these initiatives are projected to recover **$13.4M–$26.8M per month
 | 90% of purchases occur within | 7.4 minutes of cart add |
 | Estimated revenue lost (Oct 2019) | **$134M+** (extrapolated from 12% sample) |
 
+The chart below illustrates the steep drop-off across the customer journey funnel:
+
+![Customer Journey Funnel](../5_dashboard/funnel_chart.png)
+
 ### 🔍 Root Cause Analysis
 
 Data analysis ruled out price and product category as drivers of abandonment:
 - ❌ **Price is not the issue** — abandoned and purchased items have near-identical average prices across all categories
 - ❌ **Category preference is not the issue** — buyers at all hours purchase the same product mix
 - ✅ **Checkout friction is the issue** — the process map identified forced account creation, no progress indicator, and session expiry with no recovery as the primary pain points
+
+Abandonment rates vary significantly by product category, with Sport and Kids products showing the highest rates:
+
+![Abandonment Rate by Category](../5_dashboard/abandonment_by_category.png)
 
 ---
 
@@ -75,7 +85,10 @@ Data analysis ruled out price and product category as drivers of abandonment:
 
 **Evidence:**
 - 35.1% of abandoners already self-recover without any nudge — with a recovery email, this could realistically reach 45–50%
-- 90% of purchases happen within 7.4 minutes of cart add — the 30-minute email catches users while intent is still fresh
+- As shown below, 90% of purchases happen within 7.4 minutes of adding to cart — after 30 minutes, intent drops to near zero, making the first recovery email critical:
+
+![Time Between Cart and Purchase](../5_dashboard/time_to_purchase.png)
+
 - Peak conversion hours (5–9am UTC) map to Asian afternoon hours — timezone-aware scheduling maximises open rates
 
 **Projected impact:**
@@ -101,7 +114,10 @@ Data analysis ruled out price and product category as drivers of abandonment:
 
 **Evidence:**
 - Converted sessions average **7.5 events** vs 4.4 for abandoned — engaged users convert, disengaged users don't
-- A simpler, clearer checkout keeps users engaged longer
+- The top 10 abandoned products alone represent over $5.4M in lost revenue — simplifying checkout for high-value items is critical:
+
+![Top Abandoned Products by Revenue Lost](../5_dashboard/top_abandoned_products.png)
+
 - Industry data shows progress indicators reduce abandonment by 3–5%
 
 **Projected impact:**
