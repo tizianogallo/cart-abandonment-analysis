@@ -11,6 +11,20 @@ This project follows the full Business Analyst lifecycle to investigate, quantif
 ![Funnel Chart](5_dashboard/funnel_chart.png)
 ![Abandonment by Category](5_dashboard/abandonment_by_category.png)
 
+## 📊 Power BI Dashboard
+
+### Page 1 — Overview
+![Overview](5_dashboard/page1_overview.png)
+
+### Page 2 — By Category & Brand
+![Category and Brand](5_dashboard/page2_category_brand.png)
+
+### Page 3 — By Time
+![By Time](5_dashboard/page3_by_time.png)
+
+### Page 4 — Revenue Impact
+![Revenue Impact](5_dashboard/page4_revenue_impact.png)
+
 ---
 
 ## 🔑 Key Findings
