@@ -2,9 +2,6 @@
 
 **Project:** Reducing Cart Abandonment at an Undisclosed E-Commerce Platform  
 **Author:** Tiziano Gallo  
-**Date:** March 2026  
-**Version:** 1.0  
-**Status:** Draft
 
 ---
 
