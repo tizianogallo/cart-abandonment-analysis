@@ -63,12 +63,12 @@ cart-abandonment-analysis/
 
 | Phase | Deliverable | Status |
 |---|---|---|
-| 1 — Define | Problem statement & stakeholder analysis | ✅ Complete |
-| 2 — Process Mapping | AS-IS & TO-BE process maps (BPMN) | ✅ Complete |
-| 3 — Data Analysis | Python + SQL analysis, 10 charts | ✅ Complete |
-| 4 — Requirements | BRD, user stories, traceability matrix | ✅ Complete |
-| 5 — Dashboard | Power BI dashboard | 🔄 In Progress |
-| 6 — Business Case | ROI projections & recommendations | ✅ Complete |
+| 1 — Define | Problem statement & stakeholder analysis
+| 2 — Process Mapping | AS-IS & TO-BE process maps (BPMN)
+| 3 — Data Analysis | Python + SQL analysis, 10 charts|
+| 4 — Requirements | BRD, user stories, traceability matrix
+| 5 — Dashboard | Power BI dashboard
+| 6 — Business Case | ROI projections & recommendations
 
 ---
 
